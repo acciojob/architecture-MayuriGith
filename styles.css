@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+td{
+	padding-left:10px;
+}
+p{
+	text-align:center;
+}
+ div,table{
+	background-color:lightgrey
+}
+div{
+	width:1100px;
+}
+table{
+	width:1000px;
+	margin:10px
+}
